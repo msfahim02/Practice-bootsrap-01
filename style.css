@@ -1,0 +1,16 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+p{
+    /* color: #848199; */
+}
+#white{
+    color: white;
+}
+.third-col{
+    box-shadow: 0px 10px 15px 5px rgb(86, 86, 169);
+}
+footer{
+    margin-top: 100px;
+    height: 250px;
+}
